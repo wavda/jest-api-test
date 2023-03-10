@@ -1,0 +1,12 @@
+{
+  "name": "Jest API Test",
+  "version": "1.0.0",
+  "description": "API test with Jest",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "supertest": "^6.3.3"
+  }
+}
